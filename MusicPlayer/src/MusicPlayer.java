@@ -127,7 +127,6 @@ public class MusicPlayer extends Application {
 
     public static PlayerControl mediaControl;
 
-    //public static final Label timeSliderLabel = new Label("Time: ");
     public static Slider timeSlider = new Slider();
 
     public static Slider volumeSlider = new Slider(0, 1, 1);
