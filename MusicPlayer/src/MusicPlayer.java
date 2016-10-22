@@ -99,6 +99,7 @@ import com.worldsworstsoftware.itunes.parser.logging.ParserStatusUpdateLogger;
 import com.worldsworstsoftware.itunes.util.ItunesLibraryFinder;
 import com.worldsworstsoftware.logging.DefaultStatusUpdateLogger;
 import com.worldsworstsoftware.logging.StatusUpdateLogger;
+
 @SuppressWarnings("unused")
 public class MusicPlayer extends Application {
     private Desktop desktop = Desktop.getDesktop();
